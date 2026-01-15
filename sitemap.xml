@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/Apple-Pie/</loc>
+    <loc>https://o-alhaq.github.io/Apple-Pie/</loc>
     
     <lastmod>2026-01-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/certificates/index.html</loc>
+    <loc>https://o-alhaq.github.io/certificates/index.html</loc>
     
     <lastmod>2026-01-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://o-alhaq.github.io/categories/index.html</loc>
     
     <lastmod>2026-01-14</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://o-alhaq.github.io/tags/index.html</loc>
     
     <lastmod>2026-01-14</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Pentest-test/</loc>
+    <loc>https://o-alhaq.github.io/Pentest-test/</loc>
     
     <lastmod>2026-01-13</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://o-alhaq.github.io/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,21 +56,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/CTF/</loc>
+    <loc>https://o-alhaq.github.io/tags/CTF/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Security/</loc>
+    <loc>https://o-alhaq.github.io/tags/Security/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Pentesting/</loc>
+    <loc>https://o-alhaq.github.io/tags/Pentesting/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,14 +79,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/Writeups/</loc>
+    <loc>https://o-alhaq.github.io/categories/Writeups/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Recipes/</loc>
+    <loc>https://o-alhaq.github.io/categories/Recipes/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
