@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://o-alhaq.github.io/Apple-Pie/</loc>
+    <loc>https://o-alhaq.github.io/certificates/index.html</loc>
     
     <lastmod>2026-01-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://o-alhaq.github.io/certificates/index.html</loc>
+    <loc>https://o-alhaq.github.io/Apple-Pie/</loc>
     
     <lastmod>2026-01-15</lastmod>
     
@@ -79,14 +79,14 @@
 
   
   <url>
-    <loc>https://o-alhaq.github.io/categories/Writeups/</loc>
+    <loc>https://o-alhaq.github.io/categories/Recipes/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://o-alhaq.github.io/categories/Recipes/</loc>
+    <loc>https://o-alhaq.github.io/categories/Writeups/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
