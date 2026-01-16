@@ -7,5 +7,5 @@ https://o-alhaq.github.io/
 https://o-alhaq.github.io/tags/CTF/
 https://o-alhaq.github.io/tags/Security/
 https://o-alhaq.github.io/tags/Pentesting/
-https://o-alhaq.github.io/categories/Recipes/
 https://o-alhaq.github.io/categories/Writeups/
+https://o-alhaq.github.io/categories/Recipes/
