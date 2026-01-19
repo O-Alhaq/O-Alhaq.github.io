@@ -94,7 +94,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://o-alhaq.github.io/images/main-bg.png">
 <meta property="article:published_time" content="2026-01-13T21:00:00.000Z">
-<meta property="article:modified_time" content="2026-01-15T15:53:46.526Z">
+<meta property="article:modified_time" content="2026-01-19T06:56:57.130Z">
 <meta property="article:author" content="Omar Abdelhaq">
 <meta property="article:tag" content="Cybersecurity, Baking, CTF, Writeups">
 <meta name="twitter:card" content="summary">
@@ -459,84 +459,73 @@
 		
 
 		<h2 id="🛡️-Professional-Certifications"><a href="#🛡️-Professional-Certifications" class="headerlink" title="🛡️ Professional Certifications"></a>🛡️ Professional Certifications</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
-<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
-
-<table style="width: 100%; border-collapse: separate; border-spacing: 0; border: 1px solid #333; border-radius: 8px; overflow: hidden;">
-  <thead style="background: #222;">
-    <tr>
-      <th style="padding: 12px 15px; text-align: left; color: #fff;">Certificate</th>
-      <th style="padding: 12px 15px; text-align: left; color: #fff;">Full Name</th>
-      <th style="padding: 12px 15px; text-align: left; color: #fff;">Issuer</th>
-      <th style="padding: 12px 15px; text-align: left; color: #fff;">Verification</th>
-    </tr>
-  </thead>
-  <tbody>
-    
-    <tr style="border-bottom: 1px solid #333;">
-      <td style="padding: 12px 15px;"><strong>CWSE</strong></td>
-      <td style="padding: 12px 15px;">Certified Web Security Expert</td>
-      <td style="padding: 12px 15px;">Hackviser</td>
-      <td style="padding: 12px 15px;">
-        <a href="/certs/CWSE-Hackviser.jpg" 
-           data-fancybox="gallery" 
-           class="cert-btn">
-           View Cert
-        </a>
-      </td>
-    </tr>
-
-    <tr style="border-bottom: 1px solid #333;">
-      <td style="padding: 12px 15px;"><strong>CAPT</strong></td>
-      <td style="padding: 12px 15px;">Certified Associate Penetration Tester</td>
-      <td style="padding: 12px 15px;">Hackviser</td>
-      <td style="padding: 12px 15px;">
-        <a href="/certs/CAPT-Hackviser.jpg" 
-           data-fancybox="gallery" 
-           class="cert-btn">
-           View Cert
-        </a>
-      </td>
-    </tr>
-
-    <tr style="border-bottom: 1px solid #333;">
-      <td style="padding: 12px 15px;"><strong>SAL1</strong></td>
-      <td style="padding: 12px 15px;">Security Analyst Level 1</td>
-      <td style="padding: 12px 15px;">TryHackMe</td>
-      <td style="padding: 12px 15px;">
-        <a href="/certs/SAL1-THM.jpg" 
-           data-fancybox="gallery" 
-           class="cert-btn">
-           View Cert
-        </a>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
 <style>
-  .cert-btn {
-    background-color: #2563eb;
-    color: white !important;
-    padding: 6px 12px;
-    border-radius: 4px;
-    text-decoration: none !important;
-    font-size: 0.9em;
-    transition: background 0.3s;
-    cursor: pointer;
-    display: inline-block;
+  /* 1. Make the images small "Thumbnails" */
+  td img {
+    width: 160px !important;  /* Perfect thumbnail width */
+    height: auto;
+    border-radius: 6px;       /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3); /* Slight shadow */
+    transition: transform 0.2s;
+    cursor: zoom-in;          /* Shows "magnifying glass" cursor */
+    display: block;
   }
-  .cert-btn:hover { background-color: #1d4ed8; }
-  tbody tr:nth-child(odd) { background-color: rgba(255,255,255,0.02); }
-  tbody tr:hover { background-color: rgba(255,255,255,0.05); }
+  
+  /* 2. Make them pop slightly when you hover */
+  td img:hover {
+    transform: scale(1.05);
+  }
+
+  /* 3. Center everything vertically */
+  td {
+    vertical-align: middle !important;
+  }
 </style>
 
-<script>
-  Fancybox.bind("[data-fancybox]", {
-    // No extra options needed, simple is better
-  });
-</script>
+
+<table>
+<thead>
+<tr>
+<th align="left">Certificate</th>
+<th align="left">Full Name</th>
+<th align="left">Issuer</th>
+<th align="left">Verification</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>CWSE</strong></td>
+<td align="left">Certified Web Security Expert</td>
+<td align="left">Hackviser</td>
+<td align="left"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/certs/CWSE-Hackviser.jpg"
+                      alt="CWSE"
+                ></td>
+</tr>
+<tr>
+<td align="left"><strong>CAPT</strong></td>
+<td align="left">Certified Associate Penetration Tester</td>
+<td align="left">Hackviser</td>
+<td align="left"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/certs/CAPT-Hackviser.jpg"
+                      alt="CAPT"
+                ></td>
+</tr>
+<tr>
+<td align="left"><strong>SAL1</strong></td>
+<td align="left">Security Analyst Level 1</td>
+<td align="left">TryHackMe</td>
+<td align="left"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/certs/SAL1-THM.jpg"
+                      alt="SAL1"
+                ></td>
+</tr>
+</tbody></table>
 
 	</div>
 
