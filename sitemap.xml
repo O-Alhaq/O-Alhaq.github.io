@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://o-alhaq.github.io/Honey-Cake-Medovik/</loc>
+    
+    <lastmod>2026-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://o-alhaq.github.io/Chocolate-Chip-Cookies/</loc>
     
     <lastmod>2026-04-11</lastmod>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://o-alhaq.github.io/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +93,28 @@
   
   <url>
     <loc>https://o-alhaq.github.io/tags/CTF/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://o-alhaq.github.io/tags/Security/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://o-alhaq.github.io/tags/Pentesting/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://o-alhaq.github.io/tags/Recipes/</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +123,14 @@
   
   <url>
     <loc>https://o-alhaq.github.io/categories/Recipes/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://o-alhaq.github.io/categories/Writeups/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
